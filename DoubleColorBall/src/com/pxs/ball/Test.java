@@ -24,7 +24,7 @@ public class Test {
 				 break;
 			 case 3:
 				 System.out.println("双色球系统》》》退出");
-				 break;
+				 return;
 			}
 		}
 	}
